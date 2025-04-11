@@ -1,7 +1,7 @@
 ##Spin up Virtual Networks for vwan with connection into hubs
 
 ##Create vNET and VM Resoure Groups for virtual networks for vwan
-New-AzureRmResourceGroup -Name magoni -Location AustraliaSouthEast
+##New-AzureRmResourceGroup -Name magoni -Location AustraliaSouthEast
 
 ##Create vnet1 for vwan testing
 $virtualNetwork = New-AzVirtualNetwork -ResourceGroupName magoni -Location AustraliaSouthEast -Name vNET1 -AddressPrefix 192.168.0.0/16
