@@ -12,7 +12,7 @@
             "value": "network1"
         },
         "virtualNetworkId": {
-            "value": "/subscriptions/f09615db-8a90-4216-b027-2d34e0827efd/resourceGroups/magoni-vnet-rg/providers/Microsoft.Network/virtualNetworks/vNET1"
+            "value": "/subscriptions/89deef9f-ab1a-4312-923a-3b0d9bf53d1c/resourceGroups/magoni/providers/Microsoft.Network/virtualNetworks/vNET1"
         },
         "publicIpAddressName": {
             "value": "magoni-vm01-ip"
