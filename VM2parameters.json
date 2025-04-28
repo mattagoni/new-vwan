@@ -15,7 +15,7 @@
             "value": "/subscriptions/f09615db-8a90-4216-b027-2d34e0827efd/resourceGroups/magoni-vnet-rg/providers/Microsoft.Network/virtualNetworks/vNET2"
         },
         "publicIpAddressName": {
-            "value": "magoni-vm02-ip"
+            "value": "magoni-vwan-vm02-ip"
         },
         "publicIpAddressType": {
             "value": "Dynamic"
@@ -24,10 +24,10 @@
             "value": "Basic"
         },
         "virtualMachineName": {
-            "value": "magoni-vm02"
+            "value": "magoni-vwan-vm02"
         },
         "virtualMachineComputerName": {
-            "value": "magoni-vm02"
+            "value": "magoni-vwan-vm02"
         },
         "virtualMachineRG": {
             "value": "magoni"
