@@ -6,7 +6,7 @@
             "value": "australiasoutheast"
         },
         "networkInterfaceName": {
-            "value": "magoni-vwan-vm01909"
+            "value": "magoni-vwan-vm1909"
         },
         "subnetName": {
             "value": "network1"
@@ -15,7 +15,7 @@
             "value": "/subscriptions/89deef9f-ab1a-4312-923a-3b0d9bf53d1c/resourceGroups/magoni/providers/Microsoft.Network/virtualNetworks/vNET1"
         },
         "publicIpAddressName": {
-            "value": "magoni-vwan-vm01-ip"
+            "value": "magoni-vwan-vm1-ip"
         },
         "publicIpAddressType": {
             "value": "Dynamic"
@@ -24,10 +24,10 @@
             "value": "Basic"
         },
         "virtualMachineName": {
-            "value": "magoni-vwan-vm01"
+            "value": "magoni-vwan-vm1"
         },
         "virtualMachineComputerName": {
-            "value": "magoni-vwan-vm01"
+            "value": "magoni-vwan-vm1"
         },
         "virtualMachineRG": {
             "value": "magoni_vms-rg"
