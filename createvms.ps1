@@ -1,4 +1,4 @@
-New-AzureRmResourceGroup -Name magoni -Location AustraliaSouthEast
+#New-AzureRmResourceGroup -Name magoni -Location AustraliaSouthEast
 New-AzResourceGroupDeployment -ResourceGroupName "magoni" -TemplateFile "/home/matthew/new-vwan/vmcreatetemplate.json" -TemplateParameterFile "/home/matthew/new-vwan/VM1parameters.json"
 New-AzResourceGroupDeployment -ResourceGroupName "magoni" -TemplateFile "/home/matthew/new-vwan/vmcreatetemplate.json" -TemplateParameterFile "/home/matthew/new-vwan/VM2parameters.json"
 
